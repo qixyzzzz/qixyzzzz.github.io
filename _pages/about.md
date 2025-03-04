@@ -7,4 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I'm a postgraduate student student from [School of Computer Science](https://cs.cug.edu.cn/), [China University of Geosciences, Wuhan](https://www.cug.edu.cn/).  My research interest includes computer vision, deep learning, object detection, and transformer.
+I'm a postgraduate student from [School of Computer Science](https://cs.cug.edu.cn/), [China University of Geosciences, Wuhan](https://www.cug.edu.cn/).  
+
+My research interest includes computer vision, deep learning, object detection, and transformer.
