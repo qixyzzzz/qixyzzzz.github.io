@@ -1,6 +1,6 @@
 ---
 permalink: /
-  title: "Academic Pages of Xinyuan Qi"
+title: "Academic Pages of Xinyuan Qi"
 author_profile: true
 redirect_from: 
   - /about/
